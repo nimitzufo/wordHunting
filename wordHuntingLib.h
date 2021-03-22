@@ -8,6 +8,8 @@
 
 int contalinhas(char * pesq);
 FILE *openFile(char *pointerFileName);
+void huntWords(FILE *arq, FILE * uarq, char *pesq);
+void userMenu(char *textOne, char * textTwo, char * dictFile);
 
 
 
