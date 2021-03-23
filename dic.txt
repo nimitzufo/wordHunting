@@ -23,4 +23,4 @@ visao
 morrer
 falar
 Espera
-Precisa
+Precisa 
